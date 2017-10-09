@@ -10,5 +10,5 @@ import Foundation
 import AHFMServices
 
 public struct AHFMCategoryVCServices: AHFMServices {
-    // Only 'taskNavigation' is available
+    // Only available for 'taskCreateVC'!
 }
